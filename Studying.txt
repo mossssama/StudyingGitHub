@@ -2,4 +2,6 @@ git branch -M <newName> 				;rename current branch to newName
 git remote add origin remoteRepoLink	;origin is a variable carrieng remoteRepoLink
 
 
-git push -u origin main					;push current localBranch to remoteBranchNamedByMain 
+git push -u origin main					;push current localBranch to remoteBranchNamedByMain
+
+switched to branch master 
