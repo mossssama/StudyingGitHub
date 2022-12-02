@@ -4,4 +4,14 @@ git remote add origin remoteRepoLink	;origin is a variable carrieng remoteRepoLi
 
 git push -u origin main					;push current localBranch to remoteBranchNamedByMain
 
-switched to branch master 
+switched to branch master
+
+
+osos branch
+
+
+
+
+
+
+	
